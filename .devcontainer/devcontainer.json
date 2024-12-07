@@ -6,6 +6,7 @@
                 "workbench.colorTheme": "Default Dark Modern"
             },
             "extensions": [
+                "github.copilot",
                 "ms-azuretools.vscode-docker",
                 "alefragnani.bookmarks",
                 "eamodio.gitlens"
